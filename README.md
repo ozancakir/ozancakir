@@ -10,8 +10,8 @@
 - 💬 Ask me about **Vue, React, SSR, Websockets,IOT and Project Architecture**
 - 📫 How to reach me **m.ozancakir@gmail.com**
 - 📄 Check my resume
-[https://drive.google.com/file/d/1G1e0hVhtJ7ytlzIYunfYye61EiBR2Jcy/view?usp=drive_link](https://drive.google.com/file/d/1G1e0hVhtJ7ytlzIYunfYye61EiBR2Jcy/view?usp=drive_link)
-- ⚡ Fun fact **I am addicted to Coding!**
+[Download](https://drive.google.com/file/d/1G1e0hVhtJ7ytlzIYunfYye61EiBR2Jcy/view?usp=drive_link)
+- ⚡ I confess, **I am addicted to Coding!**
 
 ## 🚀 Languages and Tools
 
