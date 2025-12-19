@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ozan Çakır</h1>
 <h3 align="center">Senior Software Developer | Vue | React | Golang | C++</h3>
-<h3 align="center">Co-founder | Enpro | Spero 3D </h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on [Spero 3D](https://spero3d.com)
 - 🌱 I’m currently learning **Elixir and Phoenix! (Elixir is awesome!)**
 - 💬 Ask me about **Vue, React, SSR, Websockets,IOT and Project Architecture**
-- 📫 How to reach me **m.ozancakir@gmail.com**
-- 📄 Check my resume
-[Download](https://drive.google.com/file/d/1G1e0hVhtJ7ytlzIYunfYye61EiBR2Jcy/view?usp=drive_link)
-- ⚡ I confess, **I am addicted to Coding!**
 
 ## 🚀 Languages and Tools
 
